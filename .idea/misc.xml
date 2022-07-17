@@ -5,7 +5,13 @@
       <map>
         <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/button/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/checkbox/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/chronometer/src/main/res/layout/activity_main.xml" value="0.7333333333333334" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/datepicker/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
         <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/editview/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/imagebutton/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/radiobutton/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/Users/YANG/AndroidStudioProjects/UI/timepicker/src/main/res/layout/activity_main.xml" value="0.17760416666666667" />
       </map>
     </option>
   </component>

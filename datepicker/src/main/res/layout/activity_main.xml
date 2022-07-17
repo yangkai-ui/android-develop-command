@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <DatePicker
+        android:id="@+id/datepicker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+    </DatePicker>
+    <!--浏览图会误导，实际上没有问题 -->
+</RelativeLayout>
